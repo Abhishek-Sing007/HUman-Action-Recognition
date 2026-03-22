@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deep Learning Based Activity Recognition Application
 
 This project detects human activities from video using pose estimation and a deep learning
@@ -129,3 +130,6 @@ The project reports:
 - If you want to deploy to web or mobile later, the pose extraction and GRU model can be
   exported or replaced with a smaller classifier.
 - A CPU-only workflow is supported, though training will be slower.
+=======
+# HUman-Action-Recognition
+>>>>>>> 86c3eb478bbbde3f24bc6602209005e56263ec2f
